@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAG4dSHpoSc/JAKC_RWSzxO9Eq2LPuvkHA/view?utm_content=DAG4dSHpoSc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7f393750d" alt="banner" />
+  <img src="Graphic Designer.png" alt="banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Prerna Gaikwad</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
