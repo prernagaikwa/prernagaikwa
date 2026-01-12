@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/prerna-gaikwad-a11967272/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+
   <a href="mailto:gaikwadprerna102@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
 
