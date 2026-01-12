@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="C:/Users/gaikw/OneDrive/Pictures/Graphic Designer.jpg" alt="banner" />
+  <img src="Graphic Designer (2).png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prerna Gaikwad</h1>
