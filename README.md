@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="banner" />
+  <img src="https://www.linkedin.com/in/prerna-gaikwad-a11967272/" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prerna Gaikwad</h1>
