@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="banner.png" alt="banner" />
+  <img src="C:/Users/gaikw/OneDrive/Pictures/Graphic Designer.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prerna Gaikwad</h1>
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, SQL, Full Stack**
 - 📫 How to reach me: **gaikwadprerna102@gmail.com**
-- ⚡ Fun fact: I love learning & building projects 🚀
+- ⚡ Fun fact: When I’m not coding, you’ll find me cooking — I love being a chef too 👩‍🍳
+
 
 ---
 
@@ -44,5 +45,5 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,flask,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github" />
 </p>
