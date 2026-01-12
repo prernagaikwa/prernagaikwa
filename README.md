@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="Graphic Designer.png" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Prerna Gaikwad</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 
 ---
 
-- 🌱 I’m currently learning **Java, SQL, Full Stack Development**
+- 🌱 I’m currently learning **Java, SQL, Full Stack**
 - 📫 How to reach me: **gaikwadprerna102@gmail.com**
-- ⚡ Fun fact: I love building projects and learning new technologies 🚀
+- ⚡ Fun fact: I love learning & building projects 🚀
 
 ---
 
@@ -47,14 +46,3 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,flask,mysql,git,github" />
 </p>
-
-
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernagaikwa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-⭐ *“Always learning, always improving — building real-world projects step by step.”*
